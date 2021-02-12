@@ -18,6 +18,4 @@ Algorithms introduction<br/>
 <br/>
 Duration of course: 19/05/2020 - 30/06/2020<br/>
 <br/>
-Result: <b>Еxcellent (6.00)<b/><br/>
-<br/>
-Credits: 12 of 12
+
